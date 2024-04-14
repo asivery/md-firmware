@@ -1,3 +1,5 @@
+# This is an outdated fork! Please see [the upstream repository](https://github.com/minidisc-wiki/md-firmware) instead.
+
 # md-firmware
 Firmware dumps for MiniDisc recorders!
 
